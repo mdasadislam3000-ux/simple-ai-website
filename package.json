@@ -1,0 +1,15 @@
+{
+  "name": "simple-ai-website",
+  "version": "1.0.0",
+  "description": "Module 10 Assignment - Simple AI Website",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3"
+  }
+}
